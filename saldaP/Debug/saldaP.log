@@ -1,0 +1,52 @@
+﻿Build started 07.10.2015 15:23:14.
+     1>Project "C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WinAPI\saldaP\saldaP\saldaP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(17): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(19): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(33): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(49): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(51): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(62): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(64): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(78): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\saper.h(80): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\playerdata.h(84): warning C4172: returning address of local variable or temporary
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\playerdata.h(113): warning C4172: returning address of local variable or temporary
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(172): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(191): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(193): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(195): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(195): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(206): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(190): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(190): warning C4101: 'l' : unreferenced local variable
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(240): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(242): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(244): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(244): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(251): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(253): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(270): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(302): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(304): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(306): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(306): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(332): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(334): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\winapi\saldap\saldap\source.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WinAPI\saldaP\Debug\saldaP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WinAPI\saldaP\Debug\saldaP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WinAPI\saldaP\Debug\saldaP.lib" /MACHINE:X86 Debug\saldaP.res
+         Debug\Source.obj
+         saldaP.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WinAPI\saldaP\Debug\saldaP.exe
+     1>Done Building Project "C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WinAPI\saldaP\saldaP\saldaP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
